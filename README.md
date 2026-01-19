@@ -1,4 +1,4 @@
-# Is High Shipping Cost Driving Profit Decline Across Regions?
+# 🛍️ Is High Shipping Cost Driving Profit Decline Across Regions?
 <img src="E Commerce.jpg" width="800">
 
 <br>
