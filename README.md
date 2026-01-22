@@ -152,6 +152,64 @@ Short-term volatility vs. long-term profitability sustainability.
 
 ## 📌 Expected Impact
 
+**1. Improved Unit-Level Profitability in Loss-Making Regions**
+
+By restricting Same Day and First Class shipping in low-margin regions, the company is expected to reduce shipping cost per order without materially affecting demand.
+
+**🔹 Expected impact:**
+
+Reduction in per-order losses in Guatemala and Ukraine.
+
+Stabilization of margins in regions where premium shipping currently erodes profitability
+
+<br>
+
+**2. Margin Recovery Without Revenue Dependence**
+
+Since shipping cost per order is globally consistent and losses are not demand-driven, margin improvement does not rely on increasing order volume or revenue growth.
+
+**🔹 Expected impact:**
+
+Profitability improvement through cost control alone
+
+Reduced risk associated with demand forecasting or pricing changes
+
+<br>
+
+**3. Reduced Loss Amplification from Volume Growth**
+
+Current data indicates that higher order volumes in loss-making countries amplify losses due to unfavorable unit economics.
+
+**🔹 Expected impact:**
+
+Prevents further loss escalation as order volume grows
+
+Enables safer scaling in affected regions after fulfillment policies are adjusted
+
+<br>
+
+**4. More Efficient Allocation of Premium Shipping Capacity**
+
+Limiting premium shipping to high-value orders or high-margin regions allows logistics resources to be allocated where they generate positive returns.
+
+**🔹 Expected impact:**
+
+Better utilization of premium fulfillment options
+
+Improved cost-to-value alignment across regions
+
+<br>
+
+**5. Foundation for Region-Specific Fulfillment Strategy**
+
+Implementing differentiated shipping policies creates a framework for more granular cost control in the future.
+
+**🔹 Expected impact:**
+
+Greater flexibility in responding to regional margin dynamics
+
+Improved long-term profitability governance
+
 <br>
 
 ## 📌 Next Steps
