@@ -69,7 +69,7 @@ High shipping costs in certain regions are eroding profit margins, causing those
 
 4️⃣ Premium shipping modes significantly increase cost per order without delivering proportional profit uplift.
 
-5️⃣ Overuse of Same Day and First Class shipping particularly in Guatemala emerges as a primary driver of margin erosion.
+5️⃣ Overuse of Same Day and First Class shipping particularly in Guatemala and Ukraine emerges as a primary driver of margin erosion.
 
 6️⃣ Unit-level profitability analysis confirms that Same Day shipping is economically unsustainable in low-margin markets.
 
