@@ -14,8 +14,8 @@ The company operates a **Global E-Commerce Business** serving customers across m
 **Notebook :**
 
 **Dashboard :** 
+[Click Here](https://public.tableau.com/views/Project1_17695096487980/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-https://public.tableau.com/views/Project1_17695096487980/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 <br>
 
